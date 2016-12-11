@@ -363,6 +363,7 @@ form p input,select{
 }
 
 .button input{
+	cursor: pointer;
 	width: 170px;
 	padding: 10px;
 	border:6px solid #fff;
